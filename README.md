@@ -19,6 +19,16 @@ The analysis is performed using SQL Server and leverages fact and dimension tabl
 
 ---
 
+## Dataset
+
+The project uses a sample Data Warehouse dataset containing:
+
+- Customer Dimension
+- Product Dimension
+- Fact Sales Table
+
+Dataset is not included due to size/licensing considerations.
+
 ## Project Objectives
 
 The main objectives of this project are:
